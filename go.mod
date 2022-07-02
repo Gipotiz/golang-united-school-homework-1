@@ -1,4 +1,4 @@
-module education
+module github.com/Gipotiz/golang-united-school-homework-1
 
 go 1.18
 
